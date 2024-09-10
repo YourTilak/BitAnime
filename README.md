@@ -14,7 +14,7 @@
 
 ## About BitAnime
 
-**BitAnime** is a python script that allows you to download anime in large batches. It can also be used to download anime films. **BitAnime** gets its content from [gogoanime](https://gogoanime.pe/). If you get a **404** error, please look up the correct anime name on [gogoanime](https://gogoanime.pe/). The application will let you download all the episodes, or you can choose how many episodes you want to download.
+**BitAnime** is a python script that allows you to download anime in large batches. It can also be used to download anime films. **BitAnime** gets its content from [anitaku](https://anitaku.pe/). If you get a **404** error, please look up the correct anime name on [anitaku](https://anitaku.pe/). The application will let you download all the episodes, or you can choose how many episodes you want to download.
 
 ## Installation
 
@@ -40,16 +40,16 @@ pip install -r requirements.txt
 
 ## Usage
 
-The anime name is separated by "-". You can either type it manually, or go to [gogoanime.pe](https://gogoanime.pe/) and search for the anime you want to download and copy the name from the URL.
+The anime name is separated by "-". You can either type it manually, or go to [anitaku.pe](https://anitaku.pe/) and search for the anime you want to download and copy the name from the URL.
 
 ### Examples
 
 ##### One word title
 
-- https://gogoanime.pe/category/bakemonogatari >> bakemonogatari
-- https://gogoanime.pe/category/steinsgate >> steinsgate
+- https://anitaku.pe/category/bakemonogatari >> bakemonogatari
+- https://anitaku.pe/category/steinsgate >> steinsgate
 
 ##### Multiple word title
 
-- https://gogoanime.pe/category/shadows-house >> shadows-house
-- https://gogoanime.pe/category/kono-subarashii-sekai-ni-shukufuku-wo- >> kono-subarashii-sekai-ni-shukufuku-wo-
+- https://anitaku.pe/category/shadows-house >> shadows-house
+- https://anitaku.pe/category/kono-subarashii-sekai-ni-shukufuku-wo- >> kono-subarashii-sekai-ni-shukufuku-wo-
